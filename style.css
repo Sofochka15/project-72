@@ -6,36 +6,36 @@ body{
     justify-content: space-between;
 }
 .pic1{
-    width: 435px;
+    width: 33%;
     height: 254px;
     position: absolute;
     z-index: 3;
 }
 .pic2{
-    width: 558px;
+    width: 45%;
     height: 254px;
-    left: 371px ;
+    left: 440px ;
     position: absolute;
     z-index: 1;
 }
 .pic3{
-    width: 421px;
+    width: 33%;
     height: 254px;
-    left: 859px ;
+    left: 1040px ;
     right: 0;
     position: absolute;
     z-index: 2;
 
 }
 p{
-    width: 538px;
+    width: 550px;
     height: 59px;
     color: white;
-    font-size: 12px;
+    font-size: 14px;
     font-weight: 700;
     line-height: 14.5px;
     top: 190px;
-    left: 391px ;
+    left: 500px ;
     text-align: center;
     position: absolute;
     z-index: 5;
